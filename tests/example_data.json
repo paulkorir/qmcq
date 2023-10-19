@@ -1,0 +1,54 @@
+{
+   "questions":[
+      {
+         "question":"What is another name for the mistletoebird?",
+         "options":[
+            "Mistletoe sparrow",
+            "Mistletoe parrot",
+            "Mistletoe flowerpecker",
+            "Mistletoe finch"
+         ],
+         "answer":"Mistletoe flowerpecker"
+      },
+      {
+         "question":"Where is the mistletoebird NOT native to in Australia?",
+         "options":[
+            "Tasmania",
+            "New South Wales",
+            "Queensland",
+            "Victoria"
+         ],
+         "answer":"Tasmania"
+      },
+      {
+         "question":"What is the primary food of the mistletoebird?",
+         "options":[
+            "Insects",
+            "Nectar from flowers",
+            "Berries of the parasitic mistletoe",
+            "Seeds"
+         ],
+         "answer":"Berries of the parasitic mistletoe"
+      },
+      {
+         "question":"How can the male mistletoebird be distinguished from the female?",
+         "options":[
+            "The male has an orange-pink bill.",
+            "The male is dark grey above with a white throat.",
+            "The male is glossy blue-black above with a red chest.",
+            "The male and female look exactly the same."
+         ],
+         "answer":"The male is glossy blue-black above with a red chest."
+      },
+      {
+         "question":"Where was the male mistletoebird photographed according to the text?",
+         "options":[
+            "Eastern Maluku Islands",
+            "Arafura Sea",
+            "Round Hill Nature Reserve in New South Wales, Australia",
+            "Tasmania"
+         ],
+         "answer":"Round Hill Nature Reserve in New South Wales, Australia"
+      }
+   ]
+}
